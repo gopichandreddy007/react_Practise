@@ -1,24 +1,24 @@
-# Next.js Course Playground
+Next.js Course Playground – My Learning Summary
+This repository reflects everything I learned from the first part of Mosh Hamedani’s Next.js course. Through this course, I gained hands-on experience building full-stack applications using Next.js 13+ (App Router) and TypeScript.
 
-This repository contains all of the code examples and exercise solutions for the first part of my Next.js course.
+Here’s what I learned and implemented:
 
-This course teaches you everything you need to build full-stack applications with Next.js 13+ (App Router) and TypeScript. You'll learn how to:
+Styling modern Next.js applications for clean, responsive UIs
 
-- Style Next.js applications 
-- Implement routing and navigation 
-- Build APIs using the new App router
-- Use Prisma to integrate your Next.js applications with a database
-- Handle file uploads
-- Implement user authentication with NextAuth.js (OAuth & Credentials)
-- Send beautifuly styled emails 
-- Optimize your applications for performance and SEO
-- Deploy your Next.js applications
-- Troubleshoot common errors
-- Apply best practices 
+Setting up and managing routing/navigation using the new App Router
 
-By the end of this course, you'll have a solid grasp of Next.js and be able to build real-world applications.
+Building robust APIs with Next.js
 
-You can find the full course at: 
+Integrating a database into my projects using Prisma
 
-https://codewithmosh.com
+Handling file uploads within the app
 
+Implementing user authentication using NextAuth.js with both OAuth and credentials
+
+Sending beautifully styled emails directly from the app
+
+Optimizing the application for performance and SEO
+
+Deploying Next.js apps to production
+
+Debugging and troubleshooting common errors
